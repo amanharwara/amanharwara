@@ -9,7 +9,7 @@ I'm familiar with tech like **React** and **Svelte** for front-end development, 
 - [Chartr](https://github.com/amanharwara/chartr) – A web-app to create custom music charts and album collages.
 
 #### Links:
-- **Website**: https://amanharwara.xyz
+- **Website**: https://amanharwara.com
 - **Liberapay**: https://liberapay.com/aman_harwara/donate
 - **Ko-fi**: https://ko-fi.com/amanharwara
 - **Mastodon**: https://mastodon.social/@amanharwara
